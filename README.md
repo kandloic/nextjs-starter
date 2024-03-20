@@ -11,18 +11,15 @@ This is a starter template for Next.js projects with **TypeScript**, **Tailwind 
 ## Getting Started
 1. Clone this repository:
 ```bash
-Copy code
-git clone https://github.com/kandloic/next-typescript-tailwind-linting-precommit-hooks-template.git
+git clone https://github.com/kandloic/nextjs-starter.git
 ```
 2. Install dependencies:
 ```bash
-Copy code
-cd next-typescript-tailwind-linting-precommit-hooks-template
+cd nextjs-starter
 npm install
 ```
 3. Start the development server:
 ```bash
-Copy code
 npm run dev
 ```
 
